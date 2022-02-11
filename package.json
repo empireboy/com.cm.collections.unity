@@ -1,0 +1,17 @@
+{
+    "name": "com.cm.collections.unity",
+    "displayName": "CM Collections Unity",
+    "version": "0.1.0",
+    "unity": "2021.2",
+    "author": "Casper Meloen",
+    "description": "CM Collections Unity is a Unity package for adding collections such as GameObjectPool.",
+    "dependencies": {
+        "com.cm.objectcreation": "https://github.com/empireboy/com.cm.objectcreation.git",
+        "com.cm.objectcreation.unity": "https://github.com/empireboy/com.cm.objectcreation.unity.git",
+        "com.cm.collections": "https://github.com/empireboy/com.cm.collections.git"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/empireboy/com.cm.collections.unity.git"
+    }
+}
